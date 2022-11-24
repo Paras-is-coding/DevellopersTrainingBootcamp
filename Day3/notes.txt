@@ -1,0 +1,20 @@
+Angular class started from today    || ng -> Angular
+
+Prerequisits >
+1 Vscode installed  
+
+2 Install Node.js (not for backend programming) -> we use this for NPM
+  Note: After installation of Node.js restart PC
+NPM -> Node Pacakage Manager: Use-> It is used to install packages/JS packages in our project
+
+3 Install Angular CLI -> The Angular CLI is a command-line interface tool that you use to initialize, develop, scaffold, and maintain Angular applications directly from a command shell.  (basically starting boiler plate code ya components generate garna help garxa)
+link ->     https://angular.io/cli
+
+
+
+
+
+
+
+1 node_modulus -> Folder that stores packages downloades by NPM
+

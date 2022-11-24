@@ -1,0 +1,33 @@
+#navbar{
+    display: flex;
+    height: 3rem;
+    width: inherit;   
+}
+#navbar::before{
+    content: "";
+    height: 3rem;
+    width: 100vw;
+    z-index: -1;
+    position: absolute;
+    background-color: aliceblue;
+    opacity: 0.2;
+    border: 4px solid blue;
+    border-radius: .5rem;
+}
+#navbar li{
+    
+    list-style: none;
+    color: black;
+    font-family: cursive;
+    padding: 10px 2px 2px 2px;
+    margin: 5px 10px;
+}
+#navbar li a{
+    text-decoration: none;
+    color: black;
+}
+#navbar li:hover{
+    /* border: 2px solid grey; */
+    box-shadow: 0 0 4px 2px grey;
+    border-radius: 4px;
+}
